@@ -1,0 +1,94 @@
+{
+  "WBUI2": {
+	"settings":
+	{
+		"OpenButton": 4,
+		"HideIcon": true,
+		"HideIconAfter": 0,
+		"IconURL": "",
+		"DisableIconText": true,
+		"IconTextColor": 8,
+		"OpenOnStart": true,
+		"OpenOnStartOnlyNewPlayers": true,
+		"UpdateInterval": 12
+	},
+	"tabs": [
+		{
+			"tab1":
+			{
+				"layout": 1,
+				"buttontext": "<TextStyle.Green>WELCOME</>",
+				"title1": "<TextStyle.Green>WELCOME TO ARKFORCE!</> \r\n<TextStyle.Green>PRESS F5 OR HOLD X/SQUARE & SELECT WBUI2 TO OPEN THIS MENU</>",
+				"text1": "\r\n<TextStyle.White> 1. Claim your Free Daily Kits, Select Link Character below</>\r\n<TextStyle.White> 2. Once linked, You can earn Tokens by voting, completing achievements and logging in daily</>\r\n<TextStyle.White> 3. You can spend Tokens on Structures, Loot Packs, Dinos, Mats and more!</>\r\n<TextStyle.White> 4. You can also support the Server and receive a Big Chest of Tokens to spend as a Thankyou</>\r\n<TextStyle.White> 5. Make sure to checkout the RULES & INFO Tabs Above</>\r\n<TextStyle.White> 6. And Most Importantly, Have Fun!!! thanks for Joining us.</>\r\n<TextStyle.White> 7. Dont forget to Join our Discord, Invite Button Below</>\r\n",
+				"imageurl": "https://i.imgur.com/4LQVfZz.jpg"
+			}
+		},
+		{
+			"tab2":
+			{
+				"layout": 2,
+				"buttontext": "<TextStyle.Red>RULES</>",
+				"title1": "<TextStyle.Red>RULES</>",
+				"title2": "<TextStyle.Red>DISCLAIMER</>",
+				"text1": "* 1 Base and 1 small outpost per Tribe,\n* English only in Global & Discord chat,\n* Do NOT Logoff in other people's bases,\n* DO NOT spam chat asking how to play the game,\n* DO NOT build where you spawned, move away,\n* No Blocking Caves, resources, Artifacts or Supply Drops\n* DO NOT Place Structures of any kind around your base or the map,\n* No Mega bases! OR Floating Bases, they lag everyone,\n* DO NOT Give away OP Tames or items to new players,\n* No carrying new players through bosses,\n* Cryopod ALL Dinos you are not using, 50 Dinos out per tribe,\n* NO Advertising of any kind without @Jace explicit permission,\n* Zero Tolerance for abuse over global chat,\n\nBe courteous to others,\nBreaking these rules can lead to a tribe wipe and ban with or without warning.",
+				"text2": "* Structure & Dino Decay is 12 Days! you MUST login within 12 days and refresh your tribe or it will be REMOVED (VIPs Unlimited)\n* Players do not have offline protection, store your gear in a box or you might lose it, lost items will not be replaced.\n* We do not replace losses due to ark updates, crashes, rollbacks, or misplacing them,\n\n* Modded Ark is extremely buggy, we do not replace items/dinos due to bugs/glitches so play at your own risk,\n\n* Any map without NO WIPE in its name is a wipe map and maybe wiped @Jace discretion,\n\n* Members that have been reported multiple times by other members for breaking rules will be banned,\n\n* If you decide to tribe up, do so at your OWN RISK, It is up to you to manage your tribe dealings and governance, We do NOT take part in tribe affairs.\n",
+				"imageurl": ""
+			}
+		},
+		{
+			"tab3":
+			{
+				"layout": 2,
+				"buttontext": "<TextStyle.Yellow>INFO</>",
+				"title1": "QUICK START GUIDE",
+				"title2": "MOD HELP",
+				"text1": "TBA",
+				"text2": "",
+				"imageurl": ""
+			}
+		},
+		{
+			"tab4":
+			{
+				"layout": 2,
+				"buttontext": "COMING SOON",
+				"title1": "COMING SOON",
+				"title2": "COMING SOON",
+				"text1": "COMING SOON",
+				"text2": "COMING SOON",
+				"imageurl": ""
+			}
+		}
+	],
+	"links": [
+		{
+			"link1":
+			{
+				"text": "<TextStyle.Red>LINK CHARACTER</>",
+				"url": "https://arkforce.premiumark.net/news/59742-link"
+			}
+		},
+		{
+			"link2":
+			{
+				"text": "<TextStyle.Yellow>DISCORD</>",
+				"url": "https://discord.gg/arkforce-290630146409496577"
+			}
+		},
+		{
+			"link3":
+			{
+				"text": "<TextStyle.Green>SHOP</>",
+				"url": "https://arkforce.premiumark.net/shop"
+			}
+		},
+		{
+			"link4":
+			{
+				"text": "<TextStyle.Violet>VOTE</>",
+				"url": "https://ark-servers.net/server/354140/vote/"
+			}
+		}
+	]
+}
+}
