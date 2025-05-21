@@ -37,7 +37,7 @@
 					},
 					{
 						"title": "<TextStyle.Red>DISCLAIMER</>",
-						"text": "* Structure & Dino Decay is 12 Days! you MUST login within 12 days and refresh your tribe or it will be REMOVED (VIPs Unlimited)\n* Players do not have offline protection, store your gear in a box or you might lose it, lost items will not be replaced.\n* We do not replace losses due to ark updates, crashes, rollbacks, or misplacing them,\n\n* Modded Ark is extremely buggy, we do not replace items/dinos due to bugs/glitches so play at your own risk,\n\n* Any map without NO WIPE in its name is a wipe map and maybe wiped @Jace discretion,\n\n* Members that have been reported multiple times by other members for breaking rules will be banned,\n\n* If you decide to tribe up, do so at your OWN RISK, It is up to you to manage your tribe dealings and governance, We do NOT take part in tribe affairs.\n"
+						"text": "* Structure & Dino Decay is same as Ark Official of wood=7/Stone=11/Metal=16/Tek=22 Days! Dino decay is 7 Days! (keep them in cryo) you MUST login within these times and refresh your tribe or it will be Automatically REMOVED\n* Players do not have offline protection, store your gear in a box or you might lose it, lost items will not be replaced.\n* We do not replace losses due to ark updates, crashes, rollbacks, or misplacing them,\n\n* Modded Ark is extremely buggy, we do not replace items/dinos due to bugs/glitches so play at your own risk,\n\n* Any map without NO WIPE in its name is a wipe map and maybe wiped @Jace discretion,\n\n* Members that have been reported multiple times by other members for breaking rules will be banned,\n\n* If you decide to tribe up, do so at your OWN RISK, It is up to you to manage your tribe dealings and governance, We do NOT take part in tribe affairs.\n"
 					}
 				]
 			},
@@ -91,11 +91,15 @@
 			},
 			{
 				"text": "<TextStyle.Orange>VOTE 2</>",
-				"url": "https://ark-servers.net/server/379294/vote/"
+				"url": "https://ark-servers.net/server/371162/vote/"
 			},
 			{
 				"text": "<TextStyle.Blue>VOTE 3</>",
-				"url": "https://ark-servers.net/server/371162/vote/"
+				"url": "https://top-games.net/arksa/vote/arkforce-vote1"
+			},
+			{
+				"text": "<TextStyle.Pink>VOTE 4</>",
+				"url": "https://top-games.net/arksa/vote/arkforce-vote2"
 			}
 		],
 		"version": 2
